@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EDE978B054832EB498028C3CC646998BE3FB2B78",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D07563CBA3368644A9F8774AC8537375A3C840AB" : 9223372036854775807,
+    "EDE978B054832EB498028C3CC646998BE3FB2B78" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A04D33DC-F511-4FCB-A8FD-0187EE0C2262",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D07563CBA3368644A9F8774AC8537375A3C840AB" : "..",
+    "EDE978B054832EB498028C3CC646998BE3FB2B78" : "friendlychat\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FriendlyChatSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios-starter\/swift-starter\/FriendlyChatSwift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:KseniiaRyuma\/Angular_ToDoList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D07563CBA3368644A9F8774AC8537375A3C840AB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/firebase\/friendlychat",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EDE978B054832EB498028C3CC646998BE3FB2B78"
+    }
+  ]
+}
